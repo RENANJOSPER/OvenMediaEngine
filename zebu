@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Minha Tabela</title>
+</head>
+<body>
+	<h1>Minha Tabela</h1>
+	<table>
+		<tr>
+			<th>Produto</th>
+			<th>Categoria</th>
+			<th>Preço</th>
+		</tr>
+		<tr>
+			<td>Coxão Duro</td>
+			<td>Proteína</td>
+			<td>R$ 15,00</td>
+		</tr>
+		<tr>
+			<td>Filezinho de Frango</td>
+			<td>Proteína</td>
+			<td>R$ 10,00</td>
+		</tr>
+		<tr>
+			<td>Queijo Gorgonzola</td>
+			<td>Laticínio</td>
+			<td>R$ 20,00</td>
+		</tr>
+		<tr>
+			<td>Requeijão</td>
+			<td>Laticínio</td>
+			<td>R$ 8,00</td>
+		</tr>
+	</table>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Minha Tabela</title>
+</head>
+<body>
+	<h1>Minha Tabela</h1>
+	<table>
+		<tr>
+			<th>Produto</th>
+			<th>Categoria</th>
+			<th>Preço</th>
+		</tr>
+		<tr>
+			<td>Coxão Duro</td>
+			<td>Proteína</td>
+			<td>R$ 15,00</td>
+		</tr>
+		<tr>
+			<td>Filezinho de Frango</td>
+			<td>Proteína</td>
+			<td>R$ 10,00</td>
+		</tr>
+		<tr>
+			<td>Queijo Gorgonzola</td>
+			<td>Laticínio</td>
+			<td>R$ 20,00</td>
+		</tr>
+		<tr>
+			<td>Requeijão</td>
+			<td>Laticínio</td>
+			<td>R$ 8,00</td>
+		</tr>
+	</table>
+
+	<h2>Adicionar Produto</h2>
+	<form>
+		<label for="produto">Produto:</label>
+		<input type="text" id="produto" name="produto"><br>
+
+		<label for="categoria">
